@@ -1,0 +1,21 @@
+Módulo 2: Funções
+• Uma função matemática é uma associação entre elementos de dois conjuntos, por exemplo: y = x. Nesse caso, existem dois tipos de variáveis: a dependente e a independente. A variável dependente, nesse caso é y, pois ela depende de x para obter um valor. Já a variável independente é x, pois é o valor que substituimos para encontrar o valor numérico de y. (Normalmente, a variável dependente é escrita como f(x). Nos próximos exemplos, iremos utilizar essa notação). 
+• Em relação ao valor numérico, podemos ter infinitos valores, que normalmente pertencem ao intervalos reais. Um número que pertence a esse intervalo reúne os números que pertencem ao conjunto dos naturais, que são os números 1, 2, 3…, mais os racionais, que são aqueles que podemos escrevê-los em forma de frações. Além desses conjuntos, os reais também englobam números negativos. 
+• O domínio de uma função diz quais valores que podemos substituir na variável independente, que normalmente é x. Dependendo da função, não podemos substituir qualquer valor em x para que a função exista. Por exemplo, na função f(x) = 1/x, não podemos substituir x por 0, pois não existe divisão por 0. Podemos escrever o domínio em uma notação matemática. Nesse caso, ficaria assim: D(x) = {X∈ℝ|x≠0}, onde x é nossa variável independente, ∈ = pertence, ℝ = conjunto dos reais, | = tal que.
+• Imagem de uma função é o que diz quais valores que podemos obter na variável dependente, que normalmente é y ou f(x), ou seja, é um subconjunto do contradomínio. Por exemplo, se tivermos uma função onde f(x) = x, podemos escrever a imagem como Im(y) = ℝ, pois y poderá assumir qualquer valor no conjunto dos números reais.
+• Raíz de uma função é o valor que obtemos quando igualamos a função a zero. Quando fazemos isso, encontramos um valor de x, que graficamente, representa o ponto em que o gráfico "toca" no eixo y. 
+por exemplo, se: 
+f(x) = 2x + 5 
+para encontrarmos a raíz fazemos: 
+2x+5 = 0
+2x = -5
+x = -5/2.
+Ao montarmos o gráfico dessa função, conseguiremos observar que há o ponto (-5/2, 0).
+• Função crescente: A função é crescente a medida em que jogamos diversos valores na variável independente x, em ordem crescente, e observamos que a imagem também aumenta. Além disso, na notação de uma função desse tipo, o coeficiente a, que acompanha a variável independente é maior que zero. Por exemplo, se supormos uma função f(x) = 2x, essa função é crescente, pois 2 é maior que zero.
+• Função decrescente: É o contrário da função crescente, isto é, a medida em que jogamos valores para x de forma crescente, observamos que a imagem vai diminuindo. Por exemplo, a função f(x) = -0,5x é decrescente, pois -0,5 é menor que zero.
+• Função par: Uma função é par se, independente do número que escolhermos para x, f(x) e f(-x) forem iguais. No módulo 3, estudaremos as funções de segundo grau, como por exemplo, f(x) = x^2. Se jogarmos em x qualquer valor, e o seu complemento -x, poderemos observar que a imagem será a mesma, portanto será uma função par. É importante frisar entretanto, que nem todas as funções de segundo grau será par, e veremos isso mais para frente.
+• Função ímpar: Uma função é ímpar se para qualquer valor no domínio, f(-x) = -f(x). Por exemplo, supondo a função f(x) = x^3, se jogarmos o valor 1 e o valor -1, veremos que as imagens serão 1, e -1 respectivamente.
+• Função do primeiro grau: as funções de primeiro grau possuem o formato: 
+f(x) = ax + b. 
+- Graficamente, as funções de primeiro grau são representadas por retas. Se a>0, a função é crescente, e a reta terá uma inclinação mais "deitada". Porém, se a<0, dizemos que a função será decrescente, e a reta terá uma inclinação mais aberta. É por esta razão que dizemos que o coeficiente a é o coeficiente angular.
+- Já o coeficiente b indica em que ponto o gráfico "toca" o eixo y, quando x = 0. Isso faz sentido pois quando substituirmos x por 0 na função, encontraremos b como imagem.
